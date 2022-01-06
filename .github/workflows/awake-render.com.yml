@@ -1,4 +1,4 @@
-name: Heroku Awake
+name: zyq.onrender.com Awake
 
 on:
   schedule:
